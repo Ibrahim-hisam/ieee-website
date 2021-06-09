@@ -3,7 +3,7 @@ import React from 'react';
 const Ras = () => {
     return (
         <div>
-            ras
+            <p className="text">Welcome to RAS </p>
         </div>
     );
 };
